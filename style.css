@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(206, 194, 194);
+    margin:0;
+    margin-bottom: 10px;;
+}
+h1{
+    margin:auto;
+    width:500px;
+    padding:7px;
+}
+h2,p{
+    padding:8px;
+    margin:0;
+}
+ 
+header{
+    background-color: white;
+}
+.posts{
+    background-color: white;
+    margin-top: 15px;
+}
+.wrapper{
+width:600px;
+margin:auto;
+}
+.captionDate{
+    display:flex;
+    justify-content: space-between;
+
+}
+img{
+    width:100%;
+  
+}
+ 
